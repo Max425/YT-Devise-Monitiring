@@ -7,7 +7,8 @@ if i == 9:
     print(i, "=", 9)
 else:
     print(i, "!=", 9)
-
+qwqwerwqweqrertrtertw
+weqwqqwtwet
 =======
 while true:
     i += 1
